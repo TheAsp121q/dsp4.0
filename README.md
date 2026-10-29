@@ -1,6 +1,6 @@
 # SubWf — tiny system-wide EQ for Android
 
-A ~34 KB equalizer. No libraries, no internet permission, no accounts.
+A vibecoded ~34 KB equalizer. No libraries, no internet permission, no accounts.
 True black, white text, orange faders. One screen: sliders, then a preset dropdown.
 
 ## Install
